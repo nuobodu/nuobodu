@@ -29,7 +29,7 @@ Check out my final studies project, where I put my skills into practice:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn - dauparas-mantas](https://www.linkedin.com/in/dauparas-mantas)
+- [LinkedIn - Mantas Dauparas](https://www.linkedin.com/in/dauparas-mantas)
 
 ---
 
