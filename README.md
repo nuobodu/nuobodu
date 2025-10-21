@@ -15,7 +15,8 @@ Currently wrapping up a 6-month intensive course in software testing. Eager to j
 ## 🚀 Favorite Project
 
 Check out my final studies project, where I put my skills into practice:  
-[lpexpress-e2e-tests](https://github.com/nuobodu/lpexpress-e2e-tests)  
+
+[![GitHub-lpexpress-e2e-repository-shield]][GitHub-lpexpress-e2e-repository-url]  
 *Automated end-to-end test suite for a real-world delivery platform.*
 
 ## 🎮 Interests & Hobbies
@@ -29,10 +30,17 @@ Check out my final studies project, where I put my skills into practice:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn - Mantas Dauparas](https://www.linkedin.com/in/dauparas-mantas)
+[![LinkedIn-shield]][linkedin-url]
 
 ---
 
 > *“Quality is not an act, it is a habit.” – Aristotle*
 
 Thanks for visiting my profile! Let’s build something awesome together.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[LinkedIn-shield]: https://img.shields.io/badge/Mantas_Dauparas-linkedIn-0077B5?style=for-the-badge
+[linkedin-url]: https://www.linkedin.com/in/dauparas-mantas/
+[GitHub-lpexpress-e2e-repository-shield]: https://img.shields.io/badge/lpexpress--e2e--tests-181717?labelColor=181717&style=for-the-badge&logo=github&logoColor=white
+[GitHub-lpexpress-e2e-repository-url]: https://github.com/nuobodu/lpexpress-e2e-tests
